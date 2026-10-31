@@ -30,6 +30,14 @@ Which Indian cities have the worst air, and did air quality improve during the 2
 
 ![Change in AQI during lockdown](lockdown_aqi_change.png)
 
+## Business Angle
+
+**Who could use this:** an air-purifier company choosing which cities to target first, or a city authority deciding where emission controls matter most.
+
+**What the data suggests:** Delhi (about 217 to 126), Gurugram (about 209 to 126) and Lucknow (about 193 to 107) had the largest drops in AQI during lockdown. Because AQI fell in 19 of 20 cities, human activity such as traffic and industry appears to have a large effect on air quality.
+
+**Recommendation:** Cities with the highest normal AQI would gain the most from controls on traffic and industrial emissions. Product and policy efforts should start there.
+
 ## Limitations
 
 - The test shows air quality improved, but it cannot prove lockdown was the only cause. Weather and other year-to-year changes also affect AQI.
