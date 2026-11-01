@@ -4,7 +4,7 @@ A Python and statistics analysis of daily Air Quality Index (AQI) data from 26 I
 
 **Key takeaway:** 19 of 20 cities had lower air pollution (AQI) during the 2020 lockdown than on the same dates in 2019, by about 33 points on average. The change is statistically significant (p = 0.00003, excluding Ahmedabad's unreliable data).
 
-**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/divya.naval/viz/AQILockdownAnalysis/Sheet2)
+**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/divya.naval/viz/AQILockdownAnalysis/Sheet1)
 
 ## Question
 
