@@ -2,6 +2,10 @@
 
 A Python and statistics analysis of daily Air Quality Index (AQI) data from 26 Indian cities, built with pandas, matplotlib and SciPy.
 
+**Key takeaway:** 19 of 20 cities had lower air pollution (AQI) during the 2020 lockdown than on the same dates in 2019, by about 33 points on average. The change is statistically significant (p = 0.00003, excluding Ahmedabad's unreliable data).
+
+**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/divya.naval/viz/AQILockdownAnalysis/Sheet2)
+
 ## Question
 
 Which Indian cities have the worst air, and did air quality improve during the 2020 COVID-19 lockdown?
